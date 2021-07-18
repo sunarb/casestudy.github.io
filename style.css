@@ -1,0 +1,77 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.info {
+  border-bottom: 2px solid black;
+}
+.soln {
+  color: rgb(91, 122, 91);
+}
+.probm {
+  color: rgb(129, 96, 96);
+}
+.maindiv {
+  margin-left: 7%;
+  margin-right: 7%;
+}
+.secpara {
+  width: 60%;
+  margin: auto;
+}
+.facility {
+  font-size: x-large;
+}
+.resr {
+  color: rgb(103, 119, 167);
+}
+.analysis {
+  font-size: x-large;
+}
+.appan {
+  background-color: rgb(210, 223, 243);
+}
+
+.design {
+  color: rgb(218, 115, 149);
+}
+.wireframe .col-12 {
+  padding: 5px;
+}
+.bj {
+  width: 800px;
+  height: 500px;
+}
+.b {
+  font-size: 20px;
+}
+.links {
+  border: 1px solid red;
+  padding: 10px;
+  text-decoration: none;
+  background-color: rgb(247, 110, 110);
+  color: white;
+  font-size: larger;
+}
+.links a {
+  color: white;
+  text-decoration: none;
+}
+.links :hover {
+  background-color: rgba(255, 8, 8, 0.432);
+}
+.gps {
+  border: 1px solid black;
+}
+.mb-5,
+.my-5 {
+  margin-bottom: 0.5rem !important;
+  margin-right: 0rem !important;
+}
+.p-3 {
+  padding: 0rem !important;
+}
+.finals img {
+  width: 100%;
+}
