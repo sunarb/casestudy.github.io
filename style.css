@@ -1,9 +1,12 @@
 * {
   padding: 0;
-  margin: 10%;
+  margin: 0;
   box-sizing: border-box;
 }
-
+body{
+  width: 70%;
+  margin: auto;
+}
 .info {
   border-bottom: 2px solid black;
 }
